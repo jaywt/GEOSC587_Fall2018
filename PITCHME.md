@@ -20,6 +20,7 @@ Water pathway - The missing piece of puzzle in human health study related to oil
 
 ### Potential Funding Agencies
 
+- Seed Grant
 - NIH?
 - ACS: energy, water chemistry
 - Non-profit foundation (e.g., EDF, HEI)
