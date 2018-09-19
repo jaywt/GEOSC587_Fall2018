@@ -15,3 +15,12 @@ Water pathway - The missing piece of puzzle in human health study related to oil
 - The association of sources vs. transport medium
 - The association of sources vs. human health
 - THe association of medium vs. human health?
+
+---
+
+### Potential Funding Agencies
+
+- NIH?
+- ACS: energy, water chemistry
+- Non-profit foundation (e.g., EDF, HEI)
+...
