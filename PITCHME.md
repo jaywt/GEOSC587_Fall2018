@@ -1,15 +1,17 @@
-# Flux 
+# Research Idea for GEOSC587 
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Water pathway - The missing piece of puzzle in human health study related to oil and gas development
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Exposure Pathway
+
+- Sources
+- Transport medium/Pathway
+- Human Health Impact
+
+---
+
+- The association of sources vs. transport medium
+- The association of sources vs. human health
+- THe association of medium vs. human health?
